@@ -1,7 +1,7 @@
 # JJRPC
 A work-in-progress Java port of the C# XboxChef JRPC Library
 ------------------------------------------------------------------------------------------
-- This has been tested with my own (as of yet unreleased) updated Java RTM tool.
+- This has been tested with my own (as of yet unreleased) updated (small) Java RTM tool.
 - Not every ported feature is tested as I do not have time nor really the deep 360 knowledge needed to test it fully.
 - This release is just a posting of my current progress and should be in no way considered a replacement or upgrade to the real C# JRPC.
 - As I find time to test more, I will update this repo accordingly.
