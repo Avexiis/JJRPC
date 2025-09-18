@@ -18,5 +18,5 @@ in the terminal. This will build the JAR library to:
 
 Requirements:
 - JetBrains IntelliJ IDEA Community Editon
-- JDK 17
+- JDK 17+
 - Gradle 8.3  
