@@ -12,10 +12,10 @@ A work-in-progress Java port of the C# XboxChef JRPC Library
 - Non-functional or missing features may be present. Java doesn't natively handle memory so I had to write methods to handle it, it's some pretty complex math so I might have screwed it up. Sorry if so.
 ------------------------------------------------------------------------------------------
 Beyond that, to edit it, just download the repo into IntelliJ IDEA (Free edition works), make your changes, then run:
- `.\gradlew shadowjar` 
+`.\gradlew shadowjar` 
 in the terminal. This will build the JAR library to:
  `\build\libs\JJRPC.jar`
-------------------------------------------------------------------------------------------
+
 Requirements:
 - JetBrains IntelliJ IDEA Community Editon
 - JDK 17
